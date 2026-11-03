@@ -19,9 +19,9 @@
     },
     {
         "device_id": "e2bc0f8ea84212c7",
-        "key": "anuragesh",
+        "key": "key 1213",
         "expirydate": "15-06-2027",
-        "Allowoffline": true
+        "Allowoffline": false
     }
 ]
 
