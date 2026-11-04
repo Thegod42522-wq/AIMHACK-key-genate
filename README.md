@@ -13,7 +13,7 @@
     },    
     {
         "device_id": "fcb0e65f77e068b1",
-        "key": "Aayush Singh",
+        "key": "key1111",
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
