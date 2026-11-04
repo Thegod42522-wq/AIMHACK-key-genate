@@ -12,9 +12,9 @@
         "Allowoffline": false
     },    
     {
-        "device_id": "f99bc352a51a986c",
-        "key": "key12345",
-        "expirydate": "31-12-2027",
+        "device_id": "fcb0e65f77e068b1",
+        "key": "Aayush Singh",
+        "expirydate": "31-12-2026",
         "Allowoffline": true
     },
     {
